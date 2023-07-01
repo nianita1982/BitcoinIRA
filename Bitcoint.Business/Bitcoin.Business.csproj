@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bitcoin.Data.Entities\Bitcoin.Data.Entities.csproj" />
+    <ProjectReference Include="..\Bitcoin.Data.Model\Bitcoin.Data.Model.csproj" />
+    <ProjectReference Include="..\Bitcoin.Data.Repository\Bitcoin.Data.Repository.csproj" />
+    <ProjectReference Include="..\Bitcoin.Utils\Bitcoin.Utils.csproj" />
+  </ItemGroup>
+
+</Project>

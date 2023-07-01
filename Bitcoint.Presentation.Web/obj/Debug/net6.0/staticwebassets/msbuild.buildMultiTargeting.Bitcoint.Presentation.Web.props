@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bitcoint.Presentation.Web.props" />
+</Project>

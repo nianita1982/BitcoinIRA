@@ -1,0 +1,45 @@
+﻿@using Bitcoin.Data.Entities
+@model IEnumerable<Bitcoin.Data.Entities.Recipe>
+
+
+<div class="text-center">
+    <h3 class="display-4">Recipies with total Cost</h3>
+    <br />
+    <table style="margin-left: auto; margin-right: auto;">
+        <thead>
+            <tr>
+                <th>
+                    Recipe
+                </th>
+                <th>
+                    Total Tax
+                </th>
+                <th>
+                    Total Discount
+                </th>
+                <th>
+                    Total
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <th>
+                        @Html.DisplayFor(model => item.Name)
+                    </th>
+                    <th>
+                       $ @Html.DisplayFor(model => item.TotalTax)
+                    </th>
+                    <th>
+                       $ @Html.DisplayFor(model => item.TotalDiscount)
+                    </th>
+                    <th>
+                       $ @Html.DisplayFor(model => item.Total)
+                    </th>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

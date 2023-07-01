@@ -1,0 +1,12 @@
+C:\ProjectBitcoinIRA\BitcoinIRA\Bitcoin.Utils\bin\Debug\net6.0\Bitcoin.Utils.deps.json
+C:\ProjectBitcoinIRA\BitcoinIRA\Bitcoin.Utils\bin\Debug\net6.0\Bitcoin.Utils.dll
+C:\ProjectBitcoinIRA\BitcoinIRA\Bitcoin.Utils\bin\Debug\net6.0\Bitcoin.Utils.pdb
+C:\ProjectBitcoinIRA\BitcoinIRA\Bitcoin.Utils\obj\Debug\net6.0\Bitcoin.Utils.csproj.AssemblyReference.cache
+C:\ProjectBitcoinIRA\BitcoinIRA\Bitcoin.Utils\obj\Debug\net6.0\Bitcoin.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectBitcoinIRA\BitcoinIRA\Bitcoin.Utils\obj\Debug\net6.0\Bitcoin.Utils.AssemblyInfoInputs.cache
+C:\ProjectBitcoinIRA\BitcoinIRA\Bitcoin.Utils\obj\Debug\net6.0\Bitcoin.Utils.AssemblyInfo.cs
+C:\ProjectBitcoinIRA\BitcoinIRA\Bitcoin.Utils\obj\Debug\net6.0\Bitcoin.Utils.csproj.CoreCompileInputs.cache
+C:\ProjectBitcoinIRA\BitcoinIRA\Bitcoin.Utils\obj\Debug\net6.0\Bitcoin.Utils.dll
+C:\ProjectBitcoinIRA\BitcoinIRA\Bitcoin.Utils\obj\Debug\net6.0\refint\Bitcoin.Utils.dll
+C:\ProjectBitcoinIRA\BitcoinIRA\Bitcoin.Utils\obj\Debug\net6.0\Bitcoin.Utils.pdb
+C:\ProjectBitcoinIRA\BitcoinIRA\Bitcoin.Utils\obj\Debug\net6.0\ref\Bitcoin.Utils.dll
